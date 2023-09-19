@@ -25,3 +25,9 @@
 [![](https://visitcount.itsvg.in/api?id=AbhishekHT&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Watch snake eating my github contributions 
+ 
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
+
+ 
